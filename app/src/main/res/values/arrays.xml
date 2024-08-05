@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priority_options">
+        <item>Pilih Prioritas</item>
+        <item>Rendah</item>
+        <item>Menengah</item>
+        <item>Tinggi</item>
+    </string-array>
+
+    <string-array name="status_options">
+        <item>Pilih Status</item>
+        <item>Belum Dimulai</item>
+        <item>Sedang Berlangsung</item>
+        <item>Selesai</item>
+    </string-array>
+
+    <string-array name="category_options">
+        <item>Pilih Kategori</item>
+        <item>Pekerjaan</item>
+        <item>Pribadi</item>
+        <item>Proyek</item>
+    </string-array>
+</resources>
+
